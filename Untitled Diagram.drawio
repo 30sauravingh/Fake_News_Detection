@@ -1,1 +1,269 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T15:05:54.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="slTyQRXrCavQNlMZXhEv" type="github"><diagram id="sXCtTzlcqRcgmoZ-2-4a">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-21T10:55:44.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xiCMaegAasoS-4kUR1Bv" version="20.5.3" type="github" pages="3">
+  <diagram id="sXCtTzlcqRcgmoZ-2-4a" name="Page-1">
+    <mxGraphModel dx="1093" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-4" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="950" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-6" value="https://www.shipping.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-9" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.skyrock;fillColor=#009AFF;strokeColor=none;labelBackgroundColor=#FFFFFF;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="60" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="20" y="150" width="870" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-11" value="Requester Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="400" y="230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-15" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="190" y="260" width="490" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-16" value="CREATE A PURCHASE REQUEST" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="372.5" y="290" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="460" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-18" value="Product Name" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="280" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-19" value="Specification 1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="280" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-20" value="Specification 2" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="280" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-21" value="COST" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="280" y="510" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="460" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="460" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="460" y="510" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-25" value="submit request" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;labelBackgroundColor=#FFFFFF;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="395" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-rounded/64/Rounded-31-128.png;fillColor=#FFFFFF;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="610" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XJiAqea-rrS2IdnvYBFq-27" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;i style=&quot;background-color: rgb(255, 206, 159);&quot;&gt;SHIPPING.COM&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#FFCE9F;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="XJiAqea-rrS2IdnvYBFq-4">
+          <mxGeometry x="175" y="180" width="560" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="f_Yk68XcJg7A7aQcPfCr" name="Page-2">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="950" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-3" value="https://www.shipping.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-4" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.skyrock;fillColor=#009AFF;strokeColor=none;labelBackgroundColor=#FFFFFF;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="60" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fillColor=#FFE6CC;strokeColor=#d79b00;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="20" y="150" width="870" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-6" value="Requester Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="400" y="230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-7" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="190" y="260" width="490" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-8" value="CREATE A PURCHASE REQUEST" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="372.5" y="290" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="460" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-10" value="Product Name" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="280" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-11" value="Specification 1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="280" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-12" value="Specification 2" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="280" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-13" value="COST" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="280" y="510" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="460" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="460" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="460" y="510" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-17" value="submit request" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;labelBackgroundColor=#FFFFFF;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="395" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-rounded/64/Rounded-31-128.png;fillColor=#FFFFFF;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="610" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-19" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;i style=&quot;background-color: rgb(255, 206, 159);&quot;&gt;SHIPPING.COM&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#FFCE9F;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="175" y="180" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-20" value="PURCHASE REQUEST ID" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="265" y="550" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Belz4QuVb9ZUMpBo2F6i-22" value="SYSTEM GENERATED" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="Belz4QuVb9ZUMpBo2F6i-1">
+          <mxGeometry x="450" y="550" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YolGS265gEA8hkz6yF6f" name="Page-3">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="950" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-3" value="https://www.shipping.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-4" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.skyrock;fillColor=#009AFF;strokeColor=none;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="60" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="20" y="150" width="870" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-6" value="&lt;span style=&quot;background-color: rgb(255, 230, 204);&quot;&gt;AS A LEVEL1 MANAGER&lt;/span&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="400" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-7" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="190" y="260" width="490" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-8" value="CREATE A PURCHASE REQUEST" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="372.5" y="290" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-10" value="Purchase request" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="280" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-11" value="PR form" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="280" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-12" value="cost" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="280" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-13" value="value" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="280" y="510" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="460" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-17" value="submit request" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="395" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-rounded/64/Rounded-31-128.png;fillColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="610" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-19" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;i style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;SHIPPING.COM&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;gradientColor=#ea6b66;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="175" y="180" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-20" value="PURCHASE REQUEST ID" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="265" y="550" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-21" value="SYSTEM GENERATED" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="450" y="550" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-22" value="system generated" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="460" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-23" value="select the form" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-1">
+          <mxGeometry x="460" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-24" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="950" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-25" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-26" value="https://www.shipping.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-27" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.skyrock;fillColor=#009AFF;strokeColor=none;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="60" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="20" y="150" width="870" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-29" value="&lt;span style=&quot;background-color: rgb(255, 230, 204);&quot;&gt;AS A LEVEL1 MANAGER&lt;/span&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="400" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-30" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="190" y="260" width="490" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-31" value="CREATE A PURCHASE REQUEST" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="372.5" y="290" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-32" value="Purchase request" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="280" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-33" value="PR form" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="280" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-34" value="cost" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="280" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-35" value="benchmark value" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="280" y="510" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="460" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-37" value="submit request" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="395" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-rounded/64/Rounded-31-128.png;fillColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="610" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-39" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;i style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;SHIPPING.COM&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;gradientColor=#ea6b66;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="175" y="180" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-40" value="PURCHASE REQUEST ID" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="265" y="550" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-41" value="SYSTEM GENERATED" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="450" y="550" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-42" value="system generated" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="460" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-43" value="select the form" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="460" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TE7vmhAAbaG0M19s3-n8-44" value="verify" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TE7vmhAAbaG0M19s3-n8-24">
+          <mxGeometry x="460" y="510" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
